@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\series\series\bin\Debug\netcoreapp3.1\series.exe
+C:\Users\Usuario\source\repos\series\series\bin\Debug\netcoreapp3.1\series.deps.json
+C:\Users\Usuario\source\repos\series\series\bin\Debug\netcoreapp3.1\series.runtimeconfig.json
+C:\Users\Usuario\source\repos\series\series\bin\Debug\netcoreapp3.1\series.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\series\series\bin\Debug\netcoreapp3.1\series.dll
+C:\Users\Usuario\source\repos\series\series\bin\Debug\netcoreapp3.1\series.pdb
+C:\Users\Usuario\source\repos\series\series\obj\Debug\netcoreapp3.1\series.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\series\series\obj\Debug\netcoreapp3.1\series.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\series\series\obj\Debug\netcoreapp3.1\series.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\series\series\obj\Debug\netcoreapp3.1\series.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\series\series\obj\Debug\netcoreapp3.1\series.dll
+C:\Users\Usuario\source\repos\series\series\obj\Debug\netcoreapp3.1\series.pdb
+C:\Users\Usuario\source\repos\series\series\obj\Debug\netcoreapp3.1\series.genruntimeconfig.cache
